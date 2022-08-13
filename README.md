@@ -1,4 +1,4 @@
-# FoodVision
+# FoodVision :fries: 
 
 Food Vision application using TensorFlow (mixed precision training) and Food101 dataset.
 
